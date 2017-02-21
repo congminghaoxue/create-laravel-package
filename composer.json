@@ -1,0 +1,13 @@
+{
+    "name": "onlyus/helloworld",
+    "description": "demo-package helloworld",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhoubo",
+            "email": "congminghaoxue@foxmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
